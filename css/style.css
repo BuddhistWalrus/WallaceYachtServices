@@ -2807,6 +2807,7 @@ form button i {
 /* 7.7.1 - Photo Gallery 2 Columns */
 .photo-gallery-2-col .photo-gallery-item {
 	width: calc(51.3% - 30px);
+	
 }
 
 .photo-gallery-2-col .photo-gallery-item:nth-child(2n) {

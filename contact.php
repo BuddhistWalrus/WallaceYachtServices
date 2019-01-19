@@ -83,7 +83,7 @@
 			<!-- BEGIN .header-inner -->
 			<div class="header-inner">
 
-				<div class="logo"><a href="index.html"><img src="Wallace Yacht pics/logo.png" alt="" height="80" width="85"></a>
+				<div class="logo"><a href="index.html"><img src="images/logo.png" alt="" height="80" width="85"></a>
 					<a href="index.html"><font size="5">Wallace Yacht Services</font></a>
 				</div>
 
